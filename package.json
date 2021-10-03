@@ -1,12 +1,28 @@
 {
   "name": "bin-v8-flag-filter-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish-please": "publish-please",
+    "prepublish": "publish-please guard"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinayvennela/bin-v8-flags-filter-sync"
+  },
+  "keywords": [
+    "v8",
+    "flags",
+    "bin",
+    "filter",
+    "remove",
+    "v8flags",
+    "v8-flags",
+    "cli",
+    "sync"
+  ],
   "author": "",
   "license": "ISC"
 }
