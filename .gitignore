@@ -1,2 +1,4 @@
 .idea
 bin-v8-flag-filter-sync.iml
+.npmrc
+node_modules

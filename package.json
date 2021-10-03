@@ -24,5 +24,8 @@
     "sync"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "publish-please": "^5.5.2"
+  }
 }
